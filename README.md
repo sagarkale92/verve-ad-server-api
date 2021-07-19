@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vgi-video-coding-tests
 
 ## Instructions
@@ -93,3 +94,7 @@ Feel free to bring in additional dependencies as relevant.
 	</Ad>
 </VAST>
 ```
+=======
+# verve-ad-server-api
+An Ad server API built in Javalin. The REST API provides methods to create and update Supply, Tags, Deal. It also provides method to get Ad in XML format 
+>>>>>>> 971cdec616f69ca663cb9c9ad2529e1c6dda6170
