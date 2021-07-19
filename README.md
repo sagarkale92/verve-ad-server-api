@@ -20,7 +20,7 @@ java -jar target/javatest-0.1-SNAPSHOT-jar-with-dependencies.jar
 ![image](https://user-images.githubusercontent.com/16847999/126096816-ee4d561c-2639-4aff-8448-e135c817b309.png)
 
 # Update a supply
-![image](https://user-images.githubusercontent.com/16847999/126096858-558de26b-72d4-4874-b586-664543aefadc.png)
+![image](https://user-images.githubusercontent.com/16847999/126097240-6a2057c1-7e04-4288-994b-f519a5897de6.png)
 
 # Get a supply by id
 ![image](https://user-images.githubusercontent.com/16847999/126096890-385c402d-f30e-4205-bdcc-8a0c7b8998b1.png)
